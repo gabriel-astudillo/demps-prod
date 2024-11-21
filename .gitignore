@@ -1,7 +1,7 @@
 .DS_Store
 .vscode
 *.pid
-sim/
+sim/output
 !*.config
 !*.geojson
 logs/
