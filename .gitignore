@@ -2,5 +2,7 @@
 .vscode
 *.pid
 sim/
+!*.config
+!*.geojson
 logs/
 conf.d/
